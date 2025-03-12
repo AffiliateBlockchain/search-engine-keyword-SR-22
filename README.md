@@ -1,2 +1,2 @@
-# search-kwd-SR-22-
-kwd: "SR-22"
+# search-engine-keyword-SR-22
+keyword: "SR-22"
